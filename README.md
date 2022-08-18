@@ -1,4 +1,4 @@
-# heropicker
+# CHL WebApps
 
 ## Project setup
 ```
